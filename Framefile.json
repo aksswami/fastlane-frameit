@@ -1,0 +1,47 @@
+{
+	"default": {
+		"keyword": {
+			"color": "#ffffff"
+		},
+		"title": {
+			"color": "#ffffff"
+		},
+		"background": "./background.png",
+		"padding": 50,
+		"show_complete_frame": false,
+		"stack_title": false,
+		"title_below_image": false
+	},
+
+	"data": [{
+			"filter": "Connect",
+      "title": {
+          "text": "Connect with your peers from the\nindustry"
+      }
+		},
+		{
+			"filter": "Follow",
+      "title": {
+          "text": "Follow the industry leaders"
+      }
+		},
+		{
+			"filter": "Join",
+      "title": {
+          "text": "Join the largest community for\nPanel, Furniture and Timber"
+      }
+		},
+		{
+			"filter": "Latest",
+      "title": {
+          "text": "Get the latest new reports,\nmarket analysis and videos"
+      }
+		},
+		{
+			"filter": "StayUpdated",
+      "title": {
+          "text": "Stay updated with what the\nindustry is talking about "
+      }
+		}
+	]
+}
